@@ -52,11 +52,22 @@ This screen allows users to add and manage expense details. Users can input the 
 
 ---
 
+## MoneyTrackingAPI
+
+For the backend API used in this project, visit:  
+[MoneyTrackingAPI](https://github.com/limouzeen/moneytrackingAPI)
+
+---
+
 ## How to Run the Project
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/money-tracking-project-2024.git
 
+
+## MoneyTrackingAPI
+
+https://github.com/limouzeen/moneytrackingAPI
 
 
