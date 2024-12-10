@@ -66,8 +66,3 @@ For the backend API used in this project, visit:
    git clone https://github.com/username/money-tracking-project-2024.git
 
 
-## MoneyTrackingAPI
-
-https://github.com/limouzeen/moneytrackingAPI
-
-
