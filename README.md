@@ -63,6 +63,6 @@ For the backend API used in this project, visit:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/money-tracking-project.git
+   git clone https://github.com/limouzeen/Money_tracking_project.git
 
 
