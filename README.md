@@ -41,14 +41,14 @@ The main dashboard of the app. Users can view their balance, total income, and t
 ### IncomeView
 This screen allows users to add and manage income details. Users can input the income amount, description, and date.
 
-<img src="https://github.com/user-attachments/assets/12758110-5512-489b-9853-659aad217689" width="300">
+<img src="https://github.com/user-attachments/assets/a0433912-f389-4411-9d56-c99da1251c5e" width="300">
 
 ---
 
 ### OutcomeView
 This screen allows users to add and manage expense details. Users can input the expense amount, description, and date.
 
-<img src="https://github.com/user-attachments/assets/aa6e9e03-c8de-4785-a838-0e18d14222ef" width="300">
+<img src="https://github.com/user-attachments/assets/7248bc85-c4f2-47ed-bb9f-acc0408d4afa" width="300">
 
 ---
 
